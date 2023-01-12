@@ -8,5 +8,6 @@
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 
 ---
-
+<!-- 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=doll2gom&show_icons=true&theme=calm)
+ -->
