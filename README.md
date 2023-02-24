@@ -1,6 +1,6 @@
-![header](https://capsule-render.vercel.app/api?height=230&type=waving&color=gradient&text=shinhye%20Kim's%20GitHub&fontSize=55&fontAlignY=35&desc=welcome&descSize=25&descAlignY=55&animation=twinkling)
-
 <div align="center">
+  
+![header](https://capsule-render.vercel.app/api?height=230&type=waving&color=gradient&text=shinhye%20Kim's%20GitHub&fontSize=55&fontAlignY=35&desc=welcome&descSize=25&descAlignY=55&animation=twinkling)
 
 ### 📚 I’m currently learning
 
