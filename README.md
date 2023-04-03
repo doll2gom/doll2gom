@@ -2,8 +2,8 @@
     
   ![header](https://capsule-render.vercel.app/api?height=240&type=waving&color=gradient&text=welcome&fontSize=80&fontAlignY=35&desc=shinhye%20Kim's%20GitHub&descSize=25&descAlignY=60&animation=twinkling)
 
-**Day by day, You don't have to be the best**\
- **You just get better and better**
+**🌳Day by day, You don't have to be the best🌲**\
+ **🌱You just get better and better🌱**
 
  <img src="https://i.pinimg.com/originals/1c/4f/ac/1c4facad627b098885aec6266b8c6c0e.gif" style="width: 20%;" />
 
