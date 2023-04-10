@@ -3,8 +3,6 @@
   ![header](https://capsule-render.vercel.app/api?height=240&type=waving&color=gradient&text=welcome&fontSize=80&fontAlignY=35&desc=shinhye%20Kim's%20GitHub&descSize=25&descAlignY=60&animation=twinkling)
 
 
-[링크 실험](https://github.com/SunFlower-project01/SunFlower-site/blob/d791586133e8686640693249403fddd4382700ad/sidebar/day1.html#L36)
-
 **🌳 Day by day, You don't have to be the best 🌲**\
  **🌱   You just get better and better 🌱**
 
